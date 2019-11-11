@@ -1,0 +1,16 @@
+Package: enlightenment-theme-pack
+Version: 0.1.0
+Section: misc
+Priority: optional
+Architecture: all
+Maintainer: Robert Wiley <ylee@bodhilinux.com>
+Depends: libefl, enlightenment-theme-arc, enlightenment-theme-blingbling, enlightenment-theme-eflemettary, enlightenment-theme-flat
+Description: Theme Pack for Enlightenment
+ This package installs the following enlightenment/efl themes:
+ .
+ enlightenment-theme-arc
+ enlightenment-theme-blingbling
+ enlightenment-theme-eflemettary
+ enlightenment-theme-flat
+ .
+ It is intended to be used with Enlightenment and not Moksha.

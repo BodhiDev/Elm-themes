@@ -1,0 +1,14 @@
+Package: enlightenment-theme-arc
+Version: 0.1.0
+Section: misc
+Priority: optional
+Architecture: all
+Maintainer: Robert Wiley <ylee@bodhilinux.com>
+Depends: libefl
+Description: Enlightenment/Elementary Arc Theme
+ Based on gtk arc theme design from github.com/horst3180
+ .
+ This package contains both the light and dark versions of the theme.
+ .
+ Code based on the default Elementary/Enlightenment theme
+ Original modifications by Matthias (LeBlue) Wauer

@@ -1,0 +1,14 @@
+Package: enlightenment-theme-blingbling
+Version: 0.1.0
+Section: misc
+Priority: optional
+Architecture: all
+Maintainer: Robert Wiley <ylee@bodhilinux.com>
+Depends: libefl
+Conflicts: bodhi-theme-moksha-blingbling (= 0.9.6)
+Description: Enlightenment/Elementary Blingbling Theme
+ BlingBling Enlightenment theme is the old default theme for Enlightenment:
+ .
+ It is intended to be conservative and still show off some aspects of 
+ Enlightenment such as the ability to animate transitions and do different
+ layouts for objects. 

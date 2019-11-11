@@ -1,0 +1,11 @@
+Package: enlightenment-theme-flat
+Version: 0.1.0
+Section: misc
+Priority: optional
+Architecture: all
+Maintainer: Robert Wiley <ylee@bodhilinux.com>
+Depends: libefl
+Description: Raster's Flat Enlightenment Theme
+ A Flat Elementary Theme for enlightenment
+ .
+ A work in progress and not fully completed.

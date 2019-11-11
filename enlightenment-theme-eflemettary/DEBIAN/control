@@ -1,0 +1,13 @@
+Package: enlightenment-theme-eflemettary
+Version: 0.1.0
+Section: misc
+Priority: optional
+Architecture: all
+Maintainer: Robert Wiley <ylee@bodhilinux.com>
+Depends: libefl
+Description: Enlightenment/Elementary Eflemettary Theme
+ This theme created as part of testing process for Eflete application.
+ Please make a changes into theme file using EFL Edje Theme Editor tool.
+ .
+ About any kind of deffects/bugs and undeclared behaviour in time editing theme
+ please report to the https://phab.enlightenment.org/tag/eflete.
